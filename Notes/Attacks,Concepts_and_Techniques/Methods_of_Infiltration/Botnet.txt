@@ -1,0 +1,15 @@
+A bot computer is typically infected by visiting an unsafe website or opening an infected email attachment or infected media file. A botnet is 
+a group of bots, connected through the Internet, that can be controlled by a malicious individual or group. It can have tens of thousands, or 
+even hundreds of thousands, of bots that are typically controlled through a command and control server.
+
+These bots can be activated to distribute malware, launch DDoS attacks, distribute spam email, or execute brute-force password attacks. 
+Cybercriminals will often rent out botnets to third parties for nefarious purposes.
+
+Many organizations. like Cisco, force network activities through botnet traffic filters to identify any botnet locations.
+
+Find out more >>>>>
+    Infected bots try to communicate with a command and control host on the Internet.
+    The Cisco Firewall botnet filter is a feature that detects traffic coming from devices infected with the malicious botnet code.
+    The cloud-based Cisco Security Intelligence Operations (SIO) service pushes down updated filters to the firewall that match traffic from new known botnets.
+    Alerts go out to Cisco’s internal security team to notify them about the infected devices that are generating malicious traffic so that they can prevent, mitigate and remedy these.
+
