@@ -1,0 +1,5 @@
+Carrying out brute-force attacks involves the attacker trying several possible combinations in an attempt to guess the password. These attacks 
+usually involve a word-list file — a text file containing a list of words from a dictionary. A program such as Ophcrack, L0phtCrack, THC Hydra, 
+RainbowCrack or Medusa will then try each word and common combinations until it finds a match.
+
+Because brute-force attacks take time, complex passwords take much longer to guess.
