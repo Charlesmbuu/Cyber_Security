@@ -1,0 +1,13 @@
+SEO Poisoning
+
+You’ve probably heard of search engine optimization or SEO which, in simple terms, is about improving an organization’s website so that it 
+gains greater visibility in search engine results.
+
+Search engines such as Google work by presenting a list of web pages to users based on their search query. These web pages are ranked 
+according to the relevancy of their content.
+
+While many legitimate companies specialize in optimizing websites to better position them, attackers take advantage of popular search terms 
+and use SEO to push malicious sites higher up the ranks of search results. This technique is called SEO poisoning.
+
+The most common goal of SEO poisoning is to increase traffic to malicious sites that may host malware or attempt social engineering.
+
